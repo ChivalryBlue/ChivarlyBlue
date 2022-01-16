@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ChivarlyBlue&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=prussian" />
+</div>
+<div align="center">
+    <img src="https://metrics.lecoq.io/ChivarlyBlue?template=classic&rss=1&rss.source=https%3A%2F%2Fchivarlyblue.com%2Ffeed%2F&rss.limit=3&config.timezone=Asia%2FShanghai">
+</div>
