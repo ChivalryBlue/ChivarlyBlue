@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- Github数据展示 --> 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChivarlyBlue&show_icons=true&theme=prussian" />
-<div>
-<div align="left"> 
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChivarlyBlue&theme=prussian" />
 </div>
 <div align="left">
