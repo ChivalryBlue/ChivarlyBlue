@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=github" /></div>
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=ChivarlyBlue&theme=github" /></div>
   
 <!-- Github数据展示 --> 
 <div align="left">
