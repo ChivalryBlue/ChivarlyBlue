@@ -62,12 +62,12 @@ Here are some ideas to get you started:
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChivarlyBlue&theme=prussian" />
 </div>
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
-
 <!-- metrics统计 -->
 <div align=height="138px" "left">
     <img src="https://metrics.lecoq.io/ChivarlyBlue?template=classic&rss=1&rss.source=https%3A%2F%2Fchivarlyblue.com%2Ffeed%2F&rss.limit=3&config.timezone=Asia%2FShanghai">
 </div>
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=ChivarlyBlue&theme=github" /></div>
