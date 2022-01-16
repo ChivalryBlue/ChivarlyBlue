@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- Github数据展示 --> 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ChivarlyBlue&show_icons=true&theme=prussian" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChivarlyBlue&hide=javascript,html&theme=prussian" />
+<div>
+<div align="left"> 
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChivarlyBlue&theme=prussian" />
 </div>
 <div align="left">
     <img src="https://metrics.lecoq.io/ChivarlyBlue?template=classic&rss=1&rss.source=https%3A%2F%2Fchivarlyblue.com%2Ffeed%2F&rss.limit=3&config.timezone=Asia%2FShanghai">
