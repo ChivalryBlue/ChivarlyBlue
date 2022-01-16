@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# � Hello
+# ☀ Greetings
 
 <p>✍️&nbsp;&nbsp;大家好，我是一枚搬运工，渴望不断了解背后的原理</p>
-<p>&emsp;&emsp;In fact, people and trees are the same. The more they yearn for the warm and bright sunshine in the high places, the more their roots reach into the dark and wet land</p>
-<p>&emsp;&emsp;Give me more time like two decades,and I will turn into something better!</p>
+&emsp;&emsp;The more they yearn for the warm and bright sunshine in the high places, the more their roots reach into the dark and wet land...
+&emsp;&emsp;Give me more time like two decades,and I will turn into something better!
 
 🍎 正在学习: 
-
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
@@ -34,7 +33,6 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
 ♥ 计划学习:
-
 &emsp;&emsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
@@ -46,7 +44,6 @@ Here are some ideas to get you started:
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
 🧰 常用的工具:
-
 &emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
