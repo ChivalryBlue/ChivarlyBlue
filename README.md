@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 <!-- Github数据展示 --> 
 <div align="left">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ChivarlyBlue&show_icons=true&theme=prussian" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChivarlyBlue&theme=prussian" />
 </div>
