@@ -17,13 +17,7 @@ Here are some ideas to get you started:
 
 # ☀ Greetings
 
-<p>✍️&nbsp;&nbsp;大家好，我是一枚搬运工，渴望不断了解背后的原理
+<p>✍️&nbsp;&nbsp;我是一枚咸鱼
 <br>&emsp;&emsp;The more they yearn for the warm and bright sunshine in the high places, the more their roots reach into the dark and wet land...</br>
 &emsp;&emsp;Give me more time like two decades,and I will turn into something better!</p>
 
-
-
-<!-- Github数据展示 --> 
-<div align="left">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ChivarlyBlue&show_icons=true&theme=prussian" />
-</div>
